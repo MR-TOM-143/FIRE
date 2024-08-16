@@ -11,7 +11,7 @@ pip install requests
 
 ```
 cd $HOME
-rm -rf Mr_SxR
+rm -rf FIRE
 git clone --depth=1 https://github.com/MR-TOM-143/FIRE
 cd FIRE
 git pull
